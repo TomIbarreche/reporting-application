@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  reporting-chart:
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2022-06-02T10:52:48.8966755+02:00"
+    description: Helm chart qui sert à déployer l'application de reporting
+    digest: 9162f03bace08ebbcfa89d5fe7d6243e46a0162137a5f34377a32a80e91738b9
+    name: reporting-chart
+    type: application
+    urls:
+    - reporting-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-02T10:52:48.8966755+02:00"
